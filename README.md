@@ -2,7 +2,7 @@
 <h3 align="center">Pós-Graduando em Ciência de Dados e Big Data</h3>
 
 #### Seja bem-vindo ao meu github
-Sou uma pessoa que gostou de trabalhar com dados e viu que pode ser gerado muito valor através deles. Foi com esse intuito que comecei a fazer cursos e iniciar a pós-graduação em Ciência de Dados e Big Data.
+Uma pessoa que gostou de trabalhar com dados e viu que pode ser gerado muito valor através deles. Foi com esse intuito que comecei a fazer cursos e iniciar a pós-graduação em Ciência de Dados e Big Data.
 
 Aqui estão meus projetos que venho realizando para o meu portfólio
 * **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz)
