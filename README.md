@@ -13,12 +13,7 @@ Abaixo você consegue visualizar alguns projetos pessoais que realizei para meu 
 - 💻 Este é o meu [portólio web](https://nilsoncunha.github.io/portfolioweb/) em que faço a descritiva do que realizei no projeto desde a análise até a parte de *machine learning* e também outras informações relacionada a ciência de dados.
 
 - 📫 Aqui está meus contatos
-  * e-mail - nilson.cunhan@gmail.com
-  * LinkedIn - https://www.linkedin.com/in/nilsoncunhan/
-  * Portfólio web - https://nilsoncunha.github.io/portfolioweb/
-  
-
-<p align="center">
-<a href="https://linkedin.com/in/nilsoncunhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilsoncunhan" height="20" width="20" /></a>
-<a href="https://kaggle.com/nilsoncunhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilsoncunhan" height="20" width="20" /></a>
-</p>
+  * :email: - nilson.cunhan@gmail.com
+  * <a href="https://linkedin.com/in/nilsoncunhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilsoncunhan" height="20" width="20" /></a> - https://www.linkedin.com/in/nilsoncunhan/
+  * :star: - https://nilsoncunha.github.io/portfolioweb/
+  * <a href="https://kaggle.com/nilsoncunhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilsoncunhan" height="20" width="20" /></a> - https://kaggle.com/nilsoncunhan
