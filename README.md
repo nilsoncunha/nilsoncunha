@@ -1,6 +1,6 @@
-## Olá, Sou Nilson Cunha
-### Seja bem-vindo ao meu github
-<hr>
+### Olá, tudo bem?
+#### Seja bem-vindo ao meu github
+
 Sou Pós-Graduando em Ciência de Dados e Big Data e venho aprofundando nesse tema tão valioso para as empresas que é obter informação, e o mais importante, direcionamento através dos dados.
 
 Abaixo você consegue visualizar alguns projetos pessoais que realizei para meu portfólio.
