@@ -17,7 +17,6 @@ Abaixo você consegue visualizar alguns projetos pessoais que realizei para meu 
   * LinkedIn - https://www.linkedin.com/in/nilsoncunhan/
   * Portfólio web - https://nilsoncunha.github.io/portfolioweb/
   
-Abraços!!! 👋
 
 <p align="center">
 <a href="https://linkedin.com/in/nilsoncunhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilsoncunhan" height="20" width="20" /></a>
