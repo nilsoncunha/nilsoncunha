@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Sou Nilson Cunha</h1>
 <h3 align="center">Seja bem-vindo ao meu github</h3>
 
-Sou **Pós-Graduando em Ciência de Dados e Big Data** e venho aprofundando nesse tema tão valioso para as empresas que é obter informação, e o mais importante, direcionamento através dos dados.
+Sou Pós-Graduando em Ciência de Dados e Big Data e venho aprofundando nesse tema tão valioso para as empresas que é obter informação, e o mais importante, direcionamento através dos dados.
 
 Abaixo você consegue visualizar alguns projetos pessoais que realizei para meu portfólio.
 * **Prevendo notas do ENEM:** [clique aqui](https://colab.research.google.com/drive/1beela9VdVWEcLPEDXUoo7LmFzrmpYxdz)
