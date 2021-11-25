@@ -1,7 +1,7 @@
 ## Olá, meu nome é Nilson Cunha
 ### Seja bem-vindo ao meu github
 
-Sou Pós-Graduando em Ciência de Dados e Big Data, tenho foco em Engenharia de Dados para obter resultados e resolver problemas através dos dados.
+Sou Pós-Graduado em Ciência de Dados e Big Data, tenho foco em Engenharia de Dados para obter resultados e resolver problemas através dos dados.
 
 - 💻 Meu [portólio web](https://nilsoncunha.github.io/portfolioweb/).
 
