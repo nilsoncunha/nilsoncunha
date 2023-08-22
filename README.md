@@ -5,7 +5,7 @@ Engenheiro de dados com foco em obter resultados para o negócio e resolver prob
 
 Certificado AWS Cloud Practitioner
 
-- 💻 Meu [portólio web](https://nilsoncunha.github.io/portfolioweb/).
+- 💻 Meu [portólio web](https://nilsoncunha.github.io/portfolioweb/) (Em atualização).
 
 - 📫 Meus contatos
   * :email: - nilson.cunhan@gmail.com
