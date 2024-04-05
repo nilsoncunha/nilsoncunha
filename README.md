@@ -1,9 +1,20 @@
 ## Olá, meu nome é Nilson Cunha
 ### Seja bem-vindo ao meu github
 
-Engenheiro de dados com foco em obter resultados para o negócio e resolver problemas complexos através dos dados.
+Engenheiro de dados com +3 anos de experiência atuando com Big Data, criação e manutenção de Data Lake, Data Marts, Pipelines e ETL code utilizando diversas fontes e arquivos. 
 
-Certificado AWS Cloud Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Cloud Practitioner
+
+Habilidades: 
+- AWS (S3, EC2, EMR, Glue, Lambda, DynamoDB, Athena)
+- Python, PySpark
+- SQL Server, PostgreSQL, Trino, MongoDB
+- Airflow
+- Terraform, Git
+- Docker, Kubernetes
+
+Tenho raciocínio analítico e sou orientado a dados. Sempre visando colaborar com o grupo (#JuntosVamosMaisLonge) e focar na solução dos problemas.
 
 - 💻 Meu [portólio web](https://nilsoncunha.github.io/portfolioweb/) (Em atualização).
 
