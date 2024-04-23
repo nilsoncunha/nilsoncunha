@@ -14,7 +14,7 @@ Habilidades:
 - Terraform, Git
 - Docker, Kubernetes
 
-- 💻 Meu [portólio web](https://nilsoncunha.github.io/portfolioweb/)
+- 💻 Meu portfólio no [medium](https://medium.com/@nilsoncunhan)
 
 - 📫 Meus contatos
   * <a href="mailto:nilson.cunhan@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="nilson.cunhan@gmail.com" height="20" width="20" /></a> - nilson.cunhan@gmail.com
