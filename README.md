@@ -1,18 +1,22 @@
 ## Olá, meu nome é Nilson Cunha
 ### Seja bem-vindo ao meu github
 
-Engenheiro de dados com mais de 3 anos de experiência com Big Data, criando e mantendo Data Lake, Data Lakehouse, Data Marts, Pipelines e realizando ETL/ELT code em diversas fontes (SQL, NoSQL, API's) e arquivos. Foco em otimizar os pipelines, reduzir os custos e entregar valor através dos dados para as companhias. Facilidade para trabalhar em grupo, colaborando ativamente com equipe e interfaces para o alcance de resultados. Experiência nos setores de Logística e Financeiro.
+Sou Engenheiro de Dados com 4 anos de experiência, transformando informações brutas em insights. Trabalho construindo pipelines eficientes, integrando dados de diferentes fontes e garantindo que estejam organizados e acessíveis.
 
-- AWS Certified Solutions Architect – Associate
-- AWS Cloud Practitioner
+Atuo extraindo e processando dados de APIs, bancos SQL, NoSQL e BigQuery, gerando análises para obter grandes resultados. Tenho experiência na criação de Data Marts e Data Lakehouses com Apache Iceberg, garantindo armazenamento otimizado e consultas rápidas.
+
+No dia a dia, uso Python, PySpark, SQL e DBT para lidar com grandes volumes de dados, além de orquestrar processos com Apache Airflow. Também trabalho com AWS (S3, EC2, EMR, Glue, Lambda, DynamoDB, Redshift, Athena) e versionamento de código com Git. Tenho conhecimento básico em Databricks, Docker, Kubernetes e Terraform.
 
 Habilidades: 
-- AWS (S3, EC2, EMR, Glue, Lambda, DynamoDB, Athena)
-- Python, PySpark
-- SQL Server, PostgreSQL, MongoDB
-- Airflow
-- Terraform, Git
-- Docker, Kubernetes
+- Linguagens: Python, PySpark, SQL
+- Nuvens: AWS - S3, EC2, EMR, Glue, Lambda, DynamoDB, Redshift, Athena, ECS
+- Banco de Dados: BigQuery, SQL Server, PostgreSQL, MongoDB
+- Orquestradores: Airflow
+- Ferramentas: DBT, TrinoDB, Git, Databricks, Terraform, Docker, Kubernetes
+
+Certificações:
+- AWS Certified Solutions Architect – Associate
+- AWS Cloud Practitioner
 
 - 💻 Meu portfólio no [medium](https://medium.com/@nilsoncunhan)
 
